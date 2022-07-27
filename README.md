@@ -9,7 +9,7 @@ Advanced text control for PowerApps with shadows, bevels and other effects
 ## Change log
 * Version 1: Added shadows, bevels, custom fonts, text styles, and contours 
 * Version 2: Added transformations and presets
-* Version 3: Added glow effect
+* Version 3: Added glow effect and letter spacing
 
 How to import PowerApp from .msapp file: https://carldesouza.com/how-to-export-and-import-canvas-apps-msapp-and-zip-formats/
 
